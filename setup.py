@@ -12,7 +12,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-bKash',
-    version='0.1',
+    version='0.3',
     packages=['bKash_payment'],
     include_package_data=True,
     license='Open Source License',  # example license
