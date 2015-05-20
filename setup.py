@@ -18,18 +18,16 @@ setup(
     license='Open Source License',  # example license
     description='A simple Django app to conduct Web-based bKash payment.',
     long_description=README,
-    url='http://milubuet.pythonanywhere.com/',
+    url='https://github.com/milu-buet/django-bKash',
     author='Lutfar Rahman Milu',
     author_email='milu.buet@gmail.com',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
         'Intended Audience :: Developers',
-        'License :: Open Source', # example license
+        'License :: OSI Approved :: Apache Software License', # example license
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        # Replace these appropriately if you are stuck on Python 2.
-        'Programming Language :: Python :: 2.7.5',
         'Topic :: Internet :: WWW/HTTP',
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
     ],
