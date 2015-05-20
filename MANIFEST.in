@@ -1,0 +1,6 @@
+django-bKash/MANIFEST.in
+include LICENSE
+include README.rst
+recursive-include bKash_payment/static *
+recursive-include bKash_payment/templates *
+recursive-include docs *
