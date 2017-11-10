@@ -1,4 +1,7 @@
 =====
+Disclaimer: I created this django-app for bKash payment. 
+It was my experimental dummy project.
+I apologize if you are looking for any wisdom here.
 bKash_payment
 =====
 
